@@ -148,6 +148,47 @@ input:focus{
     color:rgb(255, 17, 0);
     margin-bottom: 5em;
 }
+/* CSS DO LOGIN */
+
+    .titulo_login{
+
+    text-align:-webkit-center;
+    margin: 1em;
+}
+    div#email{
+        text-align: center;
+    }
+    .form-control{
+     margin: 0px 0px 0px 5px;
+}
+    #submit{
+        margin: 10px 0px 0px 0px;
+    }
+    .btn_azul2{
+        background: #5F6AF8;
+        border: none;
+        padding: 0.7em;
+        padding-left: 3em;
+        padding-right: 3em;
+        color: white;
+        font-family: 'Quicksand';
+        font-weight: bold;
+        font-size: 1em;
+        border-radius: 1em;
+        margin-top: 10px 0px 0px 0px;
+    }
+    
+
+/* FIM DO CSS DO LOGIN */
+
+/* CSS DO REGISTRO */
+
+    .registro_cont{
+    text-align: center;
+    
+}
+/* FIM DO CSS REGISTRO */
+
 @media(max-width:321px){
     .card{
         width: 16.5em;
